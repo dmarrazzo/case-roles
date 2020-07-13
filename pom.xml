@@ -6,7 +6,7 @@
   <artifactId>case-roles</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>case-roles-1</name>
+  <name>case-roles</name>
   <description></description>
   <dependencies>
     <dependency>
